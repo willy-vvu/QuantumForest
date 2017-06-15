@@ -26,7 +26,7 @@ Learning Focus: 3D Projection Matricies, Visibility Culling, Working with Constr
 
 Media: Interactive Art, Digital Artwork, Scratch Project
 
-Software: Scratch,
+Software: Scratch
 
 Date: October 2015
 
