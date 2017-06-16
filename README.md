@@ -1,12 +1,12 @@
 # Quantum Forest
 
-![](QuantumForest1.jpg)
-
 Explore an ethereal 3D forest environment with hand-drawn digital art, built in the Scratch programming language.
 
 UPDATE: Almost a year after the assignment, I came back to Scratch to discover it had been featured on the home page, with almost 30,000 views.
 
 [View in Browser](https://scratch.mit.edu/projects/83958956)
+
+![](QuantumForest1.jpg)
 
 ![](QuantumForest2.gif)
 
